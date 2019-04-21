@@ -1,2 +1,2 @@
-# climate-change-big-data
-IT Tralee Big Data Module: Time Series Prediction and Forecasting for Climate Change
+# Times Series Prediction and Forecasting for Climate Change
+<i>Institute of Technology Tralee | Big Data</i>
